@@ -1,4 +1,12 @@
 @import url('./reset.css');
+@import url('./1-timer.css');
+@import url('./2-snackbar.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  font-family: 'Montserrat';
+}
+
 .task-links {
   display: flex;
   flex-direction: column;
